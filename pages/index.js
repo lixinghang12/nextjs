@@ -15,6 +15,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
+          
           Semantic scene graph provides an effective way for intelligent agents to better understand the environment and it has been extensively used in many robotic applications. However, existing work mainly focuses on generating the scene graph from
           the sensory information collected from a pre-defined path. To obtain a comprehensive semantic scene graph efficiently, the environment should be exhaustively explored with a carefully
           designed path. In this paper, we propose a new task of Embodied Semantic Scene Graph, which exploits the embodiment of the intelligent agent to autonomously generate a best path to explore
