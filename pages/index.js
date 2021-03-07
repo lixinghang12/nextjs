@@ -11,7 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Abstract
+          Emobided Semantic Scene Graph Generation
         </h1>
 
         <p className={styles.description}>
